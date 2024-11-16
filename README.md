@@ -8,16 +8,16 @@ StreamZone is a Video Streaming Application developed with Spring Boot for the b
 # Step-By-Step Walkthrough
  HomePage 
 ---
-![HomePage](https://github.com/user-attachments/assets/11059db7-9579-4624-aed8-f59399507296)
+![HomePage](https://github.com/akash284/StreamZone/blob/main/images/HomePage.png?raw=true)
 ---
 Video Uploading 
 ---
-![Video_uploading](https://github.com/user-attachments/assets/175ab8b7-f7fa-4432-8e6e-2e0fcf06e98a)
+![Video_uploading](https://github.com/akash284/StreamZone/blob/main/images/VIdeo_uploading.png?raw=true)
 ---
 Video Uploaded Succesfully
 ---
-![succesfully_uploaded](https://github.com/user-attachments/assets/878fd531-e361-4fce-8505-8b9bd7c4464a)
+![succesfully_uploaded](https://github.com/akash284/StreamZone/blob/main/images/succesfully_uploaded.png?raw=true)
 ---
 Streaming Video using HlS
 ---
-![Video_streaming](https://github.com/user-attachments/assets/d35b1459-6fa4-49c1-bae7-ed4e83506101)
+![Video_streaming](https://github.com/akash284/StreamZone/blob/main/images/Video_streaming.png?raw=true)
